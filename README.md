@@ -81,3 +81,8 @@ In each scenario, the core pipeline—data normalization, convolutional feature 
 5. Conclusion
 The constructed CNN successfully classified handwritten digits with high accuracy, validating the effectiveness of the selected architecture and training regimen. By following a clear sequence—data loading, normalization, model definition, training, evaluation, and visualization—the project establishes a standard deep learning workflow. This template can be adapted to more complex image classification tasks by adjusting network depth, incorporating data augmentation, or integrating advanced regularization techniques.
 #
+
+#
+output:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9726d29c-a2c5-4ea7-b3bb-60a57e9d8f7b" />
+#
